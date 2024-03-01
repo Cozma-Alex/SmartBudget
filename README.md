@@ -9,4 +9,4 @@
 - `hotfix/<nume_bug>`: Ramuri pentru repararea rapidă a bug-urilor importante în producție.
 
 ~~~ 
-psql -U postgres -d smartbudget -f smartbudget.sql~~~
+psql -U postgres -d smartbudget -f smartbudget.sql
